@@ -1,0 +1,21 @@
+h1 {
+    color: gold;
+    padding: 5px;
+    font-size: 50px;
+    background-color: maroon;
+}
+body {
+    color: black;
+    margin:0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+td {
+    width: 4vw;
+    border: 2px solid black;
+    text-align: center;
+}
+.noborder {
+    border: none;
+}
+    
