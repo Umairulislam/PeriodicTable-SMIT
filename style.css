@@ -1,21 +1,118 @@
-h1 {
-    color: gold;
-    padding: 5px;
-    font-size: 50px;
-    background-color: maroon;
-}
 body {
-    color: black;
-    margin:0;
-    font-family: Arial, Helvetica, sans-serif;
-    font-weight: bold;
+    background-color: whitesmoke;
+    margin: 2px 2px;
 }
-td {
-    width: 4vw;
-    border: 2px solid black;
+
+
+
+.h1 {
+    font-size: 38px;
+    width: auto;
+    font-weight: bold;
+    text-align: center;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 50px;
+    background-color: rgb(0,78,247);
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color: white;
+}
+
+
+
+
+.text {
+    font-weight: bold;
+    font-size: 20px;
+}
+.color1 {
+    background-color: rgb(156,199,124);
+    color: black;
+    width: 30px auto;
     text-align: center;
 }
-.noborder {
-    border: none;
+.color2 {
+    background-color: rgb(247,178,202);
+    color: black;
+    width: 30px;
+    text-align: center;
 }
-    
+.color3 {
+    background-color: rgb(209,32,45);
+    color: white;
+    width: 30px;
+    text-align: center;
+}
+.color4 {
+    background-color: rgb(246,168,29);
+    color: white;
+    width: 30px;
+    text-align: center
+}
+.color5 {
+    background-color: rgb(251,206,11);
+    color: black;
+    width: 30px;
+    text-align: center
+}
+.color6 {
+    background-color: rgb(154,190,228);
+    color: black;
+    width: 30px;
+    text-align: center
+}
+.color7 {
+    background-color: rgb(157,199,124);
+    color: black;
+    width: 40px;
+    text-align: center
+}
+.color8 {
+    background-color: rgb(247,178,202);
+    color: black;
+    width: 30px;
+    text-align: center
+}
+.color9 {
+    background-color: rgb(31,150,211);
+    color: black;
+    width: 30px;
+    text-align: center
+}
+.color10 {
+    background-color: rgb(184,150,198);
+    color: black;
+    width: 30px;
+    text-align: center
+}
+.color11 {
+    background-color: rgb(118,199,169);
+    color: black;
+    width: 30px;
+    text-align: center
+}
+.color12 {
+    background-color: rgb(196,196,196);
+    color: black;
+    width: 30px;
+    text-align: center
+}
+.color13 {
+    background-color: rgb(31,151,211);
+    color: white;
+    width: 30px;
+    text-align: center
+}
+.color14 {
+    background-color: rgb(118,199,169);
+    color: black;
+    width: 30px;
+    text-align: center
+}
+
+
+
+.tab2 {
+    padding-top: 8px;
+}
